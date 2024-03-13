@@ -1,0 +1,6 @@
+outs:
+- md5: 032b1216426281ba9b50d11106dac545.dir
+  size: 12324515
+  nfiles: 500
+  hash: md5
+  path: dogs
